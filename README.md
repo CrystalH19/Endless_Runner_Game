@@ -11,3 +11,6 @@ Note: Your high score will be cleared after exiting out of the game.
 
 This game was created using the Pygame library for Python. 
 To access the code, open the "Shiba Run Python File and Assets" file.
+
+
+This game was created for my CSIS 3200 (Fall 2021) Organization Of Programming Language class.
